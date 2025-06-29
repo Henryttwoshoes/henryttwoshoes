@@ -1,4 +1,9 @@
-## Hi there 👋
+# BEM-VINDO(A) AO MEU PERFIL NO GITHUB!🖐
+## Sobre mim
+Sou um estudante de Ciência da Computação que está estudando para ser um ótimo desenvolvedor front-end. Nunca estou parado, sempre buscando algo novo para estudar e me aperfeiçoar!
+## Meus repositórios
+
+
 
 <!--
 **Henryttwoshoes/henryttwoshoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
